@@ -195,20 +195,6 @@
         pointRadius: 5,
         pointHoverRadius: 5,
       },
-      {
-        label: "Línea de referencia",
-        type: "line",
-        data: [
-          { x: 3500000, y: 0 },
-          { x: 11000000, y: 550000 },
-        ],
-        borderColor: "rgba(102,102,102,.2)",
-        borderWidth: 1,
-        pointRadius: 0,
-        pointHoverRadius: 0,
-        fill: false,
-        tension: 0,
-      },
     ],
   },
   options: {
